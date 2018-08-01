@@ -19,5 +19,37 @@
   "institute":"Sai Srinivasa High School",
   "data":["2008-2009","74%"]
 }
+],
+"skills":[
+  {
+    "title":"Programming Languages",
+    "set":["Java","c","Python","c++"]
+  },
+  {
+    "title":"Web Technologies",
+    "set":["HTML","css","PHP","javascript"]
+  },
+  {
+    "title":"Data Bases",
+    "set":["MySql","Sql","Oracle","noSql"]
+  },
+  {
+    "title":"Operating Systems",
+    "set":["windows","Mac","DOS","Linux"]
+  }
+],
+"achievements":[
+  {
+    "achievedData":"Got 2d Prize in Singing"
+  },
+  {
+    "achievedData":"I participated in Technology Quiz"
+  },
+  {
+    "achievedData":" I participated in many workshops "
+  },
+  {
+    "achievedData":" I participated as a volunteer in our college Jublition-2k18"
+  }
 ]
 }
